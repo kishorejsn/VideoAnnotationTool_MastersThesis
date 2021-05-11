@@ -1,0 +1,13 @@
+Calculating all values and parameters for og resolution and new resolution
+drawingfunctions done
+interpolationfunctions done
+calculateparameters: calculate_pov_in_3D done (with all called functions inside aswell)
+interpolate pov heading -> interpolate av and adj (own functions)
+make the calculations for each vehicle
+check if everzthing is still correctlz calculated
+
+continue: 
+Extruded Box FIx
+Markings on Video
+TopView with new vehicles
+
